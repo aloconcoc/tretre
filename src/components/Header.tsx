@@ -11,7 +11,6 @@ import { Icon } from '@iconify/react';
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isAccountMenuOpen, setIsAccountMenuOpen] = useState(false);
-  const [language, setLanguage] = useState<'vn' | 'en'>('vn');
   const { getCartCount } = useCart();
   const cartCount = getCartCount();
   const { user, profile, signOut } = useAuth();
@@ -37,29 +36,23 @@ export default function Header() {
 
   interface NavigationItem {
     label: string;
-    labelEn: string;
     href: string;
     hasDropdown: boolean;
-    submenu?: { label: string; labelEn: string; href: string }[];
+    submenu?: { label: string; href: string }[];
   }
 
   const navigationItems: NavigationItem[] = [
     {
       label: 'VỀ TRETRE',
-      labelEn: 'ABOUT',
       href: '/about',
       hasDropdown: false,
     },
-    { label: 'SẢN PHẨM', labelEn: 'PRODUCTS', href: '/products', hasDropdown: false },
-    { label: 'CHẤT LIỆU', labelEn: 'MATERIALS', href: '/materials', hasDropdown: false },
-    { label: 'THỜI TRANG BỀN VỮNG', labelEn: 'SUSTAINABLE FASHION', href: '/su-ben-vung', hasDropdown: false },
-    { label: 'CHÍNH SÁCH BẢO HÀNH', labelEn: 'SHIPPING POLICY', href: '/chinh-sach-bao-hanh', hasDropdown: false },
-    { label: 'CÂU CHUYỆN', labelEn: 'STORY', href: '/news', hasDropdown: false },
+    { label: 'SẢN PHẨM', href: '/products', hasDropdown: false },
+    { label: 'CHẤT LIỆU', href: '/materials', hasDropdown: false },
+    { label: 'THỜI TRANG BỀN VỮNG', href: '/su-ben-vung', hasDropdown: false },
+    { label: 'CHÍNH SÁCH BẢO HÀNH', href: '/chinh-sach-bao-hanh', hasDropdown: false },
+    { label: 'CÂU CHUYỆN', href: '/news', hasDropdown: false },
   ];
-
-  const toggleLanguage = () => {
-    setLanguage(language === 'vn' ? 'en' : 'vn');
-  };
 
   return (
     <header className="sticky top-0 z-50 bg-white shadow-sm border-b border-gray-100">
@@ -79,18 +72,6 @@ export default function Header() {
 
           {/* Right Icons */}
           <div className="absolute right-4 flex items-center space-x-2">
-            {/* Language Flags */}
-            <button
-              onClick={toggleLanguage}
-              className="hidden md:flex items-center"
-              aria-label="Toggle language"
-            >
-              <span className="text-lg hover:scale-110 transition-transform cursor-pointer">
-                {language === 'vn' ? '🇻🇳' : '🇬🇧'}
-              </span>
-            </button>
-
-
             {/* Notification Bells */}
             {user && (
               <div className="hidden md:flex items-center">
@@ -194,7 +175,7 @@ export default function Header() {
                 href={item.href}
                 className="text-xs text-gray-700 hover:text-comay-green transition-colors duration-200 font-normal tracking-wide flex items-center gap-1 py-2"
               >
-                {language === 'vn' ? item.label : item.labelEn}
+                {item.label}
                 {item.hasDropdown && (
                   <Icon icon="solar:alt-arrow-down-linear" className="w-3 h-3 transition-transform group-hover:rotate-180" />
                 )}
@@ -210,7 +191,7 @@ export default function Header() {
                         href={subItem.href}
                         className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 hover:text-comay-green transition-colors whitespace-nowrap"
                       >
-                        {language === 'vn' ? subItem.label : subItem.labelEn}
+                        {subItem.label}
                       </Link>
                     ))}
                   </div>
@@ -230,7 +211,7 @@ export default function Header() {
                 className="block py-2.5 px-4 text-sm text-gray-700 hover:text-comay-green hover:bg-gray-50 transition-colors duration-200"
                 onClick={() => setIsMenuOpen(false)}
               >
-                {language === 'vn' ? item.label : item.labelEn}
+                {item.label}
               </Link>
             ))}
           </nav>
