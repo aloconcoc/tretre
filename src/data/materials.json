@@ -1,0 +1,62 @@
+[
+  {
+    "id": "luc-binh",
+    "name": "Lục Bình",
+    "nameEn": "Water Hyacinth",
+    "description": "Lục bình là loại thực vật thủy sinh phát triển mạnh ở đồng bằng sông Cửu Long. Sau khi thu hoạch, lục bình được phơi khô và xử lý trở thành nguyên liệu đan lát bền vững. Sản phẩm từ lục bình không chỉ thân thiện với môi trường mà còn góp phần làm sạch nguồn nước.",
+    "descriptionEn": "Water hyacinth is an aquatic plant that grows abundantly in the Mekong Delta. After harvesting, it is dried and processed into sustainable weaving material. Products made from water hyacinth are not only eco-friendly but also contribute to cleaning water sources.",
+    "image": "/images/materials/materials-1.jpg",
+    "properties": [
+      "Bền chắc và linh hoạt",
+      "Thân thiện với môi trường",
+      "Màu sắc tự nhiên",
+      "Có thể nhuộm màu"
+    ],
+    "propertiesEn": [
+      "Durable and flexible",
+      "Eco-friendly",
+      "Natural color",
+      "Can be dyed"
+    ]
+  },
+  {
+    "id": "raffia",
+    "name": "Raffia",
+    "nameEn": "Raffia",
+    "description": "Raffia là sợi tự nhiên được chiết xuất từ lá cây cọ Raphia, phát triển ở các vùng nhiệt đới châu Phi và Madagascar. Sợi raffia mềm mại, bền đẹp, và có độ bóng tự nhiên, rất được ưa chuộng trong thời trang và nghệ thuật đan lát cao cấp.",
+    "descriptionEn": "Raffia is a natural fiber extracted from Raphia palm leaves, growing in tropical regions of Africa and Madagascar. Raffia fiber is soft, durable, and has a natural sheen, highly favored in fashion and high-end weaving arts.",
+    "image": "/images/materials/materials-2.jpeg",
+    "properties": [
+      "Mềm mại và óng ánh",
+      "Bền màu tự nhiên",
+      "Sang trọng",
+      "Nhẹ và thoáng khí"
+    ],
+    "propertiesEn": [
+      "Soft and lustrous",
+      "Natural color retention",
+      "Luxurious",
+      "Lightweight and breathable"
+    ]
+  },
+  {
+    "id": "co-bang",
+    "name": "Cỏ Bàng",
+    "nameEn": "Seagrass",
+    "description": "Cỏ bàng là loại cây cỏ mọc tự nhiên ở vùng ven biển và đầm lầy Việt Nam. Với đặc tính bền bỉ và khả năng chống ẩm tốt, cỏ bàng được sử dụng rộng rãi trong sản xuất thủ công mỹ nghệ truyền thống, đặc biệt là giỏ, mũ và đồ trang trí nội thất.",
+    "descriptionEn": "Seagrass is a grass species that grows naturally in coastal and wetland areas of Vietnam. With its durable nature and good moisture resistance, seagrass is widely used in traditional handicraft production, especially for baskets, hats, and home decor items.",
+    "image": "/images/materials/materials-3.jpg",
+    "properties": [
+      "Chống ẩm tốt",
+      "Độ bền cao",
+      "Màu sắc ấm áp",
+      "Phong cách vintage"
+    ],
+    "propertiesEn": [
+      "Good moisture resistance",
+      "High durability",
+      "Warm color tones",
+      "Vintage style"
+    ]
+  }
+]

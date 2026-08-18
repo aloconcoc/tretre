@@ -1,0 +1,403 @@
+[
+  {
+    "id": "1",
+    "name": "Túi Xách Lục Bình Premium",
+    "nameEn": "Premium Water Hyacinth Bag",
+    "collection": "Bông Lúa Collection",
+    "category": "bags",
+    "price": 1250000,
+    "priceUSD": 52,
+    "images": [
+      "/images/products/products-1.jpg",
+      "/images/products/products-2.jpg",
+      "/images/products/products-6.jpg",
+      "/images/products/products-15.jpg"
+    ],
+    "description": "Túi xách thủ công từ lục bình thiên nhiên, kết hợp kỹ thuật đan truyền thống Việt Nam.",
+    "descriptionEn": "Handcrafted bag from natural water hyacinth, combining traditional Vietnamese weaving techniques.",
+    "longDescription": "Túi xách lục bình thủ công cao cấp được dệt tỉ mỉ từ sợi lục bình tự nhiên, mang đến vẻ đẹp rustic đầy tinh tế. Sản phẩm được hoàn thiện với quai da bò cao cấp và lớp lót vải bên trong. Mỗi chiếc túi đều đi kèm túi vải bảo quản. Đây là sản phẩm 100% thủ công, do nghệ nhân làng nghề Việt Nam tạo nên, mỗi sản phẩm đều mang nét độc đáo riêng biệt.",
+    "material": "Lục bình",
+    "specifications": {
+      "weight": "350g",
+      "dimensions": "Rộng 28cm x Cao 22cm x Sâu 12cm",
+      "color": "Nâu tự nhiên",
+      "handleType": "Quai da bò cao cấp"
+    },
+    "bestseller": true,
+    "premium": true,
+    "inStock": true,
+    "quantity": 94
+  },
+  {
+    "id": "2",
+    "name": "Túi Tote Raffia",
+    "nameEn": "Raffia Tote Bag",
+    "collection": "Aurora Collection",
+    "category": "bags",
+    "price": 950000,
+    "priceUSD": 40,
+    "images": [
+      "/images/products/products-2.jpg",
+      "/images/products/products-5.png",
+      "/images/products/products-8.jpg",
+      "/images/products/products-11.jpg"
+    ],
+    "description": "Túi tote rộng rãi từ sợi raffia tự nhiên, hoàn hảo cho mùa hè.",
+    "descriptionEn": "Spacious tote bag from natural raffia fiber, perfect for summer.",
+    "longDescription": "Túi tote Raffia với thiết kế rộng rãi, phù hợp để đựng đồ dùng hằng ngày hoặc đi biển. Được dệt từ sợi raffia thiên nhiên nhập khẩu từ Madagascar, sản phẩm vừa nhẹ nhàng vừa bền bỉ. Túi có lớp lót vải cotton bên trong và đi kèm túi nhỏ để đựng vật dụng cá nhân. Thiết kế tối giản nhưng vô cùng tiện dụng.",
+    "material": "Raffia",
+    "specifications": {
+      "weight": "280g",
+      "dimensions": "Rộng 38cm x Cao 32cm x Sâu 15cm",
+      "color": "Be tự nhiên",
+      "handleType": "Quai cầm tay raffia"
+    },
+    "bestseller": true,
+    "premium": false,
+    "inStock": true,
+    "quantity": 12
+  },
+  {
+    "id": "3",
+    "name": "Mũ Cói Bàng Vintage",
+    "nameEn": "Vintage Seagrass Hat",
+    "collection": "Bông Lúa Collection",
+    "category": "accessories",
+    "price": 480000,
+    "priceUSD": 20,
+    "images": [
+      "/images/products/products-3.png",
+      "/images/products/products-7.png",
+      "/images/products/products-12.png",
+      "/images/products/products-3.png"
+    ],
+    "description": "Mũ cói bàng phong cách cổ điển, bảo vệ hoàn hảo dưới nắng.",
+    "descriptionEn": "Classic style seagrass hat, perfect sun protection.",
+    "longDescription": "Mũ cói bàng với thiết kế vintage, lấy cảm hứng từ những chiếc nón truyền thống Việt Nam. Vành rộng giúp che nắng hiệu quả, phù hợp cho các hoạt động ngoài trời. Sản phẩm được đan thủ công từ cỏ bàng tự nhiên, tạo cảm giác thoáng mát và dễ chịu khi đội.",
+    "material": "Cỏ bàng",
+    "specifications": {
+      "weight": "120g",
+      "dimensions": "Đường kính 35cm, Vòng đầu 56-58cm",
+      "color": "Nâu vàng tự nhiên",
+      "handleType": "N/A"
+    },
+    "bestseller": false,
+    "premium": false,
+    "inStock": true,
+    "quantity": 49
+  },
+  {
+    "id": "4",
+    "name": "Giỏ Lục Bình Đan Tay",
+    "nameEn": "Handwoven Water Hyacinth Basket",
+    "collection": "Premium Line",
+    "category": "home-decor",
+    "price": 680000,
+    "priceUSD": 28,
+    "images": [
+      "/images/products/products-4.jpg",
+      "/images/products/products-10.jpg",
+      "/images/products/products-13.jpg",
+      "/images/products/products-4.jpg"
+    ],
+    "description": "Giỏ đựng đồ đa năng, thủ công 100% bởi nghệ nhân làng nghề.",
+    "descriptionEn": "Multi-purpose storage basket, 100% handcrafted by village artisans.",
+    "longDescription": "Giỏ đựng đồ lục bình cao cấp với thiết kế thanh lịch, phù hợp để đựng đồ dùng gia đình hoặc làm món quà tặng ý nghĩa. Sản phẩm được đan hoàn toàn bằng tay bởi nghệ nhân làng nghề với hơn 20 năm kinh nghiệm. Lục bình được xử lý khô kỹ càng, đảm bảo độ bền và giữ màu lâu dài.",
+    "material": "Lục bình",
+    "specifications": {
+      "weight": "400g",
+      "dimensions": "Đường kính 30cm x Cao 18cm",
+      "color": "Nâu đậm",
+      "handleType": "Quai cầm tay đan lục bình"
+    },
+    "bestseller": false,
+    "premium": true,
+    "inStock": true,
+    "quantity": 54
+  },
+  {
+    "id": "5",
+    "name": "Túi Clutch Raffia Cao Cấp",
+    "nameEn": "Premium Raffia Clutch",
+    "collection": "Premium Line",
+    "category": "bags",
+    "price": 1580000,
+    "priceUSD": 66,
+    "images": [
+      "/images/products/products-5.png"
+    ],
+    "description": "Túi clutch tinh tế từ raffia, hoàn thiện thủ công tỉ mỉ.",
+    "descriptionEn": "Elegant raffia clutch with meticulous handcrafted finishing.",
+    "material": "Raffia",
+    "bestseller": true,
+    "premium": true,
+    "inStock": true,
+    "quantity": 88
+  },
+  {
+    "id": "6",
+    "name": "Túi Đeo Chéo Lục Bình",
+    "nameEn": "Water Hyacinth Crossbody Bag",
+    "collection": "Aurora Collection",
+    "category": "bags",
+    "price": 890000,
+    "priceUSD": 37,
+    "images": [
+      "/images/products/products-6.jpg"
+    ],
+    "description": "Túi đeo chéo nhỏ gọn, phong cách hiện đại kết hợp truyền thống.",
+    "descriptionEn": "Compact crossbody bag, modern style meets tradition.",
+    "material": "Lục bình",
+    "bestseller": true,
+    "premium": false,
+    "inStock": true,
+    "quantity": 99
+  },
+  {
+    "id": "7",
+    "name": "Giỏ Picnic Cói Bàng",
+    "nameEn": "Seagrass Picnic Basket",
+    "collection": "Bông Lúa Collection",
+    "category": "home-decor",
+    "price": 1120000,
+    "priceUSD": 47,
+    "images": [
+      "/images/products/products-7.png"
+    ],
+    "description": "Giỏ picnic với thiết kế cổ điển, lý tưởng cho chuyến dã ngoại.",
+    "descriptionEn": "Classic design picnic basket, ideal for outdoor trips.",
+    "material": "Cỏ bàng",
+    "bestseller": false,
+    "premium": false,
+    "inStock": true,
+    "quantity": 60
+  },
+  {
+    "id": "8",
+    "name": "Túi Xách Tay Raffia Đen",
+    "nameEn": "Black Raffia  Handbag",
+    "collection": "Premium Line",
+    "category": "bags",
+    "price": 1450000,
+    "priceUSD": 60,
+    "images": [
+      "/images/products/products-8.jpg"
+    ],
+    "description": "Túi xách tay màu đen sang trọng, phù hợp mọi dịp.",
+    "descriptionEn": "Elegant black handbag, suitable for any occasion.",
+    "material": "Raffia",
+    "bestseller": false,
+    "premium": true,
+    "inStock": true,
+    "quantity": 93
+  },
+  {
+    "id": "9",
+    "name": "Túi Mini Lục Bình Đen",
+    "nameEn": "Black Water Hyacinth Mini Bag",
+    "collection": "Aurora Collection",
+    "category": "bags",
+    "price": 780000,
+    "priceUSD": 32,
+    "images": [
+      "/images/products/products-9.jpg"
+    ],
+    "description": "Túi mini phong cách tối giản, hoàn hảo cho buổi tối.",
+    "descriptionEn": "Minimalist style mini bag, perfect for evening events.",
+    "material": "Lục bình",
+    "bestseller": true,
+    "premium": false,
+    "inStock": true,
+    "quantity": 94
+  },
+  {
+    "id": "10",
+    "name": "Túi Laptop Thủ Công",
+    "nameEn": "Handcrafted Laptop Bag",
+    "collection": "Bông Lúa Collection",
+    "category": "bags",
+    "price": 1650000,
+    "priceUSD": 69,
+    "images": [
+      "/images/products/products-10.jpg"
+    ],
+    "description": "Túi laptop bảo vệ tối ưu, thiết kế hiện đại và bền bỉ.",
+    "descriptionEn": "Optimal laptop protection with modern and durable design.",
+    "material": "Lục bình",
+    "bestseller": false,
+    "premium": true,
+    "inStock": true,
+    "quantity": 98
+  },
+  {
+    "id": "11",
+    "name": "Giỏ Đựng Đồ Raffia",
+    "nameEn": "Raffia Storage Basket",
+    "collection": "Aurora Collection",
+    "category": "home-decor",
+    "price": 520000,
+    "priceUSD": 22,
+    "images": [
+      "/images/products/products-11.jpg"
+    ],
+    "description": "Giỏ đựng đồ tiện dụng, trang trí nhà cửa thêm ấm cúng.",
+    "descriptionEn": "Practical storage basket that adds warmth to home decor.",
+    "material": "Raffia",
+    "bestseller": false,
+    "premium": false,
+    "inStock": true,
+    "quantity": 27
+  },
+  {
+    "id": "12",
+    "name": "Túi Bucket Cói Bàng",
+    "nameEn": "Seagrass Bucket Bag",
+    "collection": "Premium Line",
+    "category": "bags",
+    "price": 1080000,
+    "priceUSD": 45,
+    "images": [
+      "/images/products/products-12.png"
+    ],
+    "description": "Túi bucket thời trang, dung tích lớn và phong cách độc đáo.",
+    "descriptionEn": "Fashionable bucket bag with large capacity and unique style.",
+    "material": "Cỏ bàng",
+    "bestseller": true,
+    "premium": true,
+    "inStock": true,
+    "quantity": 56
+  },
+  {
+    "id": "13",
+    "name": "Túi Đeo Vai Mini Đen",
+    "nameEn": "Black Mini Shoulder Bag",
+    "collection": "Aurora Collection",
+    "category": "bags",
+    "price": 850000,
+    "priceUSD": 35,
+    "images": [
+      "/images/products/products-13.jpg"
+    ],
+    "description": "Túi đeo vai nhỏ gọn màu đen, phong cách hiện đại.",
+    "descriptionEn": "Compact black shoulder bag with modern style.",
+    "material": "Lục bình",
+    "bestseller": false,
+    "premium": false,
+    "inStock": true,
+    "quantity": 75
+  },
+  {
+    "id": "14",
+    "name": "Túi Xách Vàng Ánh Kim",
+    "nameEn": "Golden Shimmer Handbag",
+    "collection": "Premium Line",
+    "category": "bags",
+    "price": 1780000,
+    "priceUSD": 74,
+    "images": [
+      "/images/products/products-14.jpg"
+    ],
+    "description": "Túi xách ánh vàng lấp lánh, nổi bật trong mọi sự kiện.",
+    "descriptionEn": "Shimmering golden handbag, stands out at any event.",
+    "material": "Raffia",
+    "bestseller": true,
+    "premium": true,
+    "inStock": true,
+    "quantity": 76
+  },
+  {
+    "id": "15",
+    "name": "Túi Tote Lục Bình Lớn",
+    "nameEn": "Large Water Hyacinth Tote",
+    "collection": "Bông Lúa Collection",
+    "category": "bags",
+    "price": 1150000,
+    "priceUSD": 48,
+    "images": [
+      "/images/products/products-15.jpg"
+    ],
+    "description": "Túi tote dung tích lớn, lý tưởng cho công việc và du lịch.",
+    "descriptionEn": "Large capacity tote, ideal for work and travel.",
+    "material": "Lục bình",
+    "bestseller": false,
+    "premium": false,
+    "inStock": true,
+    "quantity": 48
+  },
+  {
+    "id": "16",
+    "name": "Túi Clutch Tanya Nâu",
+    "nameEn": "Tanya Brown Clutch",
+    "collection": "Premium Line",
+    "category": "bags",
+    "price": 1380000,
+    "priceUSD": 57,
+    "images": [
+      "/images/products/products-16.jpg"
+    ],
+    "description": "Clutch màu nâu sang trọng, hoàn hảo cho dạ tiệc.",
+    "descriptionEn": "Elegant brown clutch, perfect for evening parties.",
+    "material": "Raffia",
+    "bestseller": true,
+    "premium": true,
+    "inStock": true,
+    "quantity": 15
+  },
+  {
+    "id": "17",
+    "name": "Túi Đựng Mỹ Phẩm Thổ Cẩm",
+    "nameEn": "Brocade Cosmetic Bag",
+    "collection": "Aurora Collection",
+    "category": "accessories",
+    "price": 380000,
+    "priceUSD": 16,
+    "images": [
+      "/images/products/products-17.jpg"
+    ],
+    "description": "Túi đựng mỹ phẩm họa tiết thổ cẩm truyền thống.",
+    "descriptionEn": "Cosmetic bag with traditional brocade patterns.",
+    "material": "Lục bình",
+    "bestseller": false,
+    "premium": false,
+    "inStock": true,
+    "quantity": 85
+  },
+  {
+    "id": "18",
+    "name": "Túi Đeo Chéo Nghệ Thuật",
+    "nameEn": "Artistic Crossbody Bag",
+    "collection": "Bông Lúa Collection",
+    "category": "bags",
+    "price": 980000,
+    "priceUSD": 41,
+    "images": [
+      "/images/products/products-18.jpg"
+    ],
+    "description": "Túi đeo chéo với họa tiết nghệ thuật độc đáo.",
+    "descriptionEn": "Crossbody bag with unique artistic patterns.",
+    "material": "Cỏ bàng",
+    "bestseller": false,
+    "premium": false,
+    "inStock": true,
+    "quantity": 56
+  },
+  {
+    "id": "19",
+    "name": "Túi Xách Dây Kết Đặc Biệt",
+    "nameEn": "Special Woven Handle Bag",
+    "collection": "Premium Line",
+    "category": "bags",
+    "price": 1280000,
+    "priceUSD": 53,
+    "images": [
+      "/images/products/products-19.jpg"
+    ],
+    "description": "Túi xách với dây kết thủ công tinh xảo, phong cách độc đáo.",
+    "descriptionEn": "Handbag with exquisite handwoven handles and unique style.",
+    "material": "Lục bình",
+    "bestseller": true,
+    "premium": true,
+    "inStock": true,
+    "quantity": 48
+  }
+]

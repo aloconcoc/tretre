@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "COMAY x SIXDO - Sydney Fashion Week",
+    "titleEn": "COMAY x SIXDO - Sydney Fashion Week",
+    "category": "collaboration",
+    "date": "2023-05-15",
+    "excerpt": "Bộ sưu tập hợp tác giữa COMAY và nhà thiết kế SIXDO đã tạo nên dấu ấn tại Tuần lễ thời trang Sydney với những thiết kế kết hợp độc đáo giữa chất liệu tự nhiên và phom dáng hiện đại.",
+    "excerptEn": "The collaboration between COMAY and designer SIXDO made its mark at Sydney Fashion Week with unique designs combining natural materials and modern silhouettes.",
+    "image": "/images/blog/blog-2.jpeg",
+    "author": "Kieng Can",
+    "tags": ["Fashion Show", "Collaboration", "International"]
+  },
+  {
+    "id": "2",
+    "title": " Milano Fashion Week với COMAY",
+    "titleEn": "Milano Fashion Week with COMAY",
+    "category": "collaboration",
+    "date": "2023-10-20",
+    "excerpt": "COMAY vinh dự trình làng bộ sưu tập Premium tại Milano Fashion Week, mang nghệ thuật đan lát Việt Nam đến với sàn diễn thời trang quốc tế.",
+    "excerptEn": "COMAY proudly presented its Premium collection at Milano Fashion Week, bringing Vietnamese weaving art to the international fashion runway.",
+    "image": "/images/blog/blog-1.jpg",
+    "author": "COMAY Team",
+    "tags": ["Fashion Show", "Milano", "Premium"]
+  },
+  {
+    "id": "3",
+    "title": "COMAY x PDH - Hợp Tác Đặc Biệt",
+    "titleEn": "COMAY x PDH - Special Collaboration",
+    "category": "collaboration",
+    "date": "2023-04-10",
+    "excerpt": "Sự kết hợp giữa COMAY và nhà thiết kế Phương Duy Hoàng tạo ra bộ sưu tập độc đáo, tôn vinh văn hóa thủ công truyền thống Việt Nam.",
+    "excerptEn": "The collaboration between COMAY and designer Phuong Duy Hoang creates a unique collection celebrating traditional Vietnamese handicraft culture.",
+    "image": "/images/blog/blog-4.jpg",
+    "author": "Phương Duy Hoàng",
+    "tags": ["Collaboration", "Vietnamese Designer", "Tradition"]
+  },
+  {
+    "id": "4",
+    "title": "Stella Collection - Vẻ Đẹp Tinh Tế",
+    "titleEn": "Stella Collection - Refined Beauty",
+    "category": "news",
+    "date": "2024-05-12",
+    "excerpt": "Bộ sưu tập Stella ra mắt với những thiết kế tinh tế, kết hợp hoàn hảo giữa sự sang trọng và tính thực dụng trong từng sản phẩm thủ công.",
+    "excerptEn": "The Stella Collection launches with refined designs, perfectly combining elegance and practicality in each handcrafted product.",
+    "image": "/images/blog/blog-5.jpg",
+    "author": "COMAY Design Team",
+    "tags": ["New Collection", "Stella", "Luxury"]
+  },
+  {
+    "id": "5",
+    "title": "Câu Chuyện Nghệ Nhân - Tay Nghề Vàng",
+    "titleEn": "Artisan Story - Golden Hands",
+    "category": "news",
+    "date": "2024-09-08",
+    "excerpt": "Gặp gỡ những nghệ nhân làng nghề với bàn tay vàng, những người đã gìn giữ và phát triển nghệ thuật đan lát truyền thống qua nhiều thế hệ.",
+    "excerptEn": "Meet the village artisans with golden hands who have preserved and developed traditional weaving arts through generations.",
+    "image": "/images/about/about-1.jpg",
+    "author": "COMAY Team",
+    "tags": ["Artisan", "Tradition", "Craftsmanship"]
+  }
+]

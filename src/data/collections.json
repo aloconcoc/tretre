@@ -1,0 +1,29 @@
+[
+  {
+    "id": "bong-lua",
+    "name": "Bông Lúa Collection",
+    "nameEn": "Rice Flower Collection",
+    "description": "Bộ sưu tập lấy cảm hứng từ những cánh đồng lúa chín vàng, tôn vinh vẻ đẹp của làng quê Việt Nam.",
+    "descriptionEn": "Collection inspired by golden rice fields, celebrating the beauty of Vietnamese countryside.",
+    "image": "/images/hero/hero-1.jpg",
+    "season": "Spring/Summer 2025"
+  },
+  {
+    "id": "aurora",
+    "name": "Aurora Collection",
+    "nameEn": "Aurora Collection",
+    "description": "Những thiết kế hiện đại kết hợp nét truyền thống, tạo nên vẻ đẹp rạng ngời như cực quang.",
+    "descriptionEn": "Modern designs combined with traditional elements, creating beauty as radiant as the aurora.",
+    "image": "/images/hero/hero-5.jpg",
+    "season": "Fall/Winter 2024"
+  },
+  {
+    "id": "premium-line",
+    "name": "Premium Line",
+    "nameEn": "Premium Line",
+    "description": "Dòng sản phẩm cao cấp thủ công 100%, dành riêng cho những ai yêu thích sự tinh tế và độc đáo.",
+    "descriptionEn": "100% handcrafted premium line for those who appreciate sophistication and uniqueness.",
+    "image": "/images/hero/hero-4.jpg",
+    "season": "Year-round"
+  }
+]

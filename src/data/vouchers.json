@@ -1,0 +1,67 @@
+[
+  {
+    "id": "WELCOME10",
+    "code": "WELCOME10",
+    "type": "percentage",
+    "value": 10,
+    "minOrderValue": 500000,
+    "maxUses": 100,
+    "usedCount": 25,
+    "validFrom": "2024-01-01",
+    "validUntil": "2024-12-31",
+    "active": true,
+    "description": "Giảm 10% cho khách hàng mới"
+  },
+  {
+    "id": "SUMMER2024",
+    "code": "SUMMER2024",
+    "type": "fixed",
+    "value": 150000,
+    "minOrderValue": 1000000,
+    "maxUses": 50,
+    "usedCount": 12,
+    "validFrom": "2024-06-01",
+    "validUntil": "2024-08-31",
+    "active": true,
+    "description": "Giảm 150k cho đơn trên 1 triệu"
+  },
+  {
+    "id": "FREESHIP",
+    "code": "FREESHIP",
+    "type": "shipping",
+    "value": 0,
+    "minOrderValue": 800000,
+    "maxUses": 200,
+    "usedCount": 87,
+    "validFrom": "2024-01-01",
+    "validUntil": "2024-12-31",
+    "active": true,
+    "description": "Miễn phí ship cho đơn trên 800k"
+  },
+  {
+    "id": "VIP20",
+    "code": "VIP20",
+    "type": "percentage",
+    "value": 20,
+    "minOrderValue": 2000000,
+    "maxUses": 30,
+    "usedCount": 8,
+    "validFrom": "2024-03-01",
+    "validUntil": "2024-12-31",
+    "active": true,
+    "description": "Giảm 20% cho khách VIP"
+  },
+  {
+    "id": "FLASH50",
+    "code": "FLASH50",
+    "type": "percentage",
+    "value": 50,
+    "minOrderValue": 0,
+    "maxUses": 10,
+    "usedCount": 10,
+    "validFrom": "2024-02-14",
+    "validUntil": "2024-02-14",
+    "active": false,
+    "description": "Flash sale Valentine (hết lượt)"
+  }
+]

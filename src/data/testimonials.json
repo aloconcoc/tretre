@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "quote": "Những sản phẩm từ COMAY không chỉ đẹp mà còn mang giá trị bền vững. Tôi rất yêu thích túi lục bình của mình!",
+    "quoteEn": "COMAY products are not only beautiful but also sustainable. I absolutely love my water hyacinth bag!",
+    "author": "Nguyễn Thu Hà",
+    "authorEn": "Nguyen Thu Ha",
+    "location": "Hà Nội",
+    "locationEn": "Hanoi",
+    "rating": 5
+  },
+  {
+    "id": "2",
+    "quote": "Chất lượng thủ công tuyệt vời, mỗi chi tiết đều được chăm chút kỹ lưỡng. Đáng giá từng đồng!",
+    "quoteEn": "Excellent handcrafted quality, every detail is meticulously cared for. Worth every penny!",
+    "author": "Trần Minh Anh",
+    "authorEn": "Tran Minh Anh",
+    "location": "TP. Hồ Chí Minh",
+    "locationEn": "Ho Chi Minh City",
+    "rating": 5
+  },
+  {
+    "id": "3",
+    "quote": "COMAY đã giúp tôi tìm thấy phong cách riêng - hiện đại nhưng vẫn gần gũi với văn hóa truyền thống.",
+    "quoteEn": "COMAY helped me find my own style - modern yet close to traditional culture.",
+    "author": "Lê Phương Mai",
+    "authorEn": "Le Phuong Mai",
+    "location": "Đà Nẵng",
+    "locationEn": "Da Nang",
+    "rating": 5
+  }
+]
